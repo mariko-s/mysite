@@ -5,3 +5,7 @@ div {
 body {
   font-size: 20px;
 }
+
+h1 {
+  font-weight: bold;
+}
